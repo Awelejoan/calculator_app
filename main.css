@@ -64,7 +64,7 @@
     font-size: 1.5rem;
 }
 
-.keys .key.operator span{
+ .operator span{
     color:orange
 }
 
@@ -74,7 +74,7 @@
 
 @media screen and (max-width:400px) {
     .calculator{
-        max-width: 300px;
+        max-width: 400px;
     }
     .key{
         font-size: 1rem;
